@@ -24,4 +24,4 @@ function fibonacci(num) {
 	return b;
 }
 
-module.exports = fibonacci;
+module.exports = fibonacci(5);
